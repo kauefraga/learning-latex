@@ -5,6 +5,11 @@
 \usepackage{datetime} % Time and Date formatting
 \usepackage[portuguese]{babel}
 
+\usepackage{csquotes}
+
+\usepackage{biblatex} % Bibliography management
+\addbibresource{refs.bib}
+
 \usepackage{hyperref} % links
 \hypersetup{
 colorlinks = true,
@@ -57,7 +62,7 @@ right = 2cm,
 \section{Introdução} % You can prefix the braces with * and it won't have numbers
 Olá! Meu nome é Kauê e eu gosto de escrever código.
 Esse é um tutorial de \LaTeX para iniciantes. Nós vamos olhar como declarar
-seções e subseções, equações e figures.
+seções e subseções, equações e figures. Dê uma olhada em \cite{alves2003introduccao}
 
 \section{Equações}
 \subsection{Área de um Círculo}
@@ -104,6 +109,9 @@ Em 1902, Einstein criou a seguinte equação: $E = mc^2$.
 \end{figure}
 
 \newpage
+
+
+\printbibliography % automatically generated
 
 \section*{Referências}
 \begin{itemize} % Itemize to create bullet list and enumerate order it
