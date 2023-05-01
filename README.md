@@ -46,7 +46,7 @@
   - [_itemize/enumerate_](https://www.overleaf.com/learn/latex/Lists)
 - [Labels and cross referencing](https://en.wikibooks.org/wiki/LaTeX/Labels_and_Cross-referencing)
 
-## 🛠 Technologies
+## 🛠 Packages
 
 The following packages have been used to write the pdf:
 
@@ -57,6 +57,7 @@ The following packages have been used to write the pdf:
 - [hyperref](https://www.ctan.org/pkg/hyperref) - Write interative urls.
 - [graphicx](https://www.ctan.org/pkg/graphicx) - Insert images in your document.
 - [geometry](https://www.ctan.org/pkg/geometry) - Customize your page layout, margin, paper type...
+- [biblatex](https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX) - Add citations and automatically generate a bibliography.
 
 ## 📝 License
 
