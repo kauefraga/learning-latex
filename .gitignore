@@ -5,3 +5,9 @@ learning-la.fls
 learning-la.log
 learning-la.out
 learning-la.synctex.gz
+
+# biblatex output
+learning-la.bbl
+learning-la.bcf
+learning-la.blg
+learning-la.run.xml
