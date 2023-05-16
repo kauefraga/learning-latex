@@ -45,6 +45,7 @@
   - [_figure_](https://www.overleaf.com/learn/latex/Inserting_Images)
   - [_itemize/enumerate_](https://www.overleaf.com/learn/latex/Lists)
 - [Labels and cross referencing](https://en.wikibooks.org/wiki/LaTeX/Labels_and_Cross-referencing)
+- [Quick response codes](https://tex.stackexchange.com/questions/1429/latex-package-to-generate-qr-codes)
 
 ## 🛠 Packages
 
